@@ -1,7 +1,6 @@
 # Kavya Enterprises – Official Website
 
-Official WordPress website for **Kavya Enterprises**, a leading uniform manufacturer based in Jaipur, Rajasthan.
-
+Official WordPress website for **Kavya Enterprises**.
 This project represents the complete business website built for branding, lead generation, and local SEO visibility.
 
 ---
@@ -10,7 +9,7 @@ This project represents the complete business website built for branding, lead g
 
 **Business Name:** Kavya Enterprises  
 **Industry:** Uniform Manufacturing  
-**Location:** Jaipur, Rajasthan, India  
+
 
 Kavya Enterprises specializes in manufacturing high-quality uniforms for schools, corporates, hospitals, security agencies, and industrial sectors.
 
@@ -54,3 +53,12 @@ This website was developed to:
 ---
 
 ## 📂 Repository Structure
+kavya-enterprises-wordpress-website/
+│
+├── wp-content/
+│ ├── themes/
+│ ├── plugins/
+│ └── uploads/ (optional)
+│
+├── README.md
+└── .gitignore
