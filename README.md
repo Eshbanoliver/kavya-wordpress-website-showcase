@@ -62,3 +62,60 @@ kavya-enterprises-wordpress-website/
 │
 ├── README.md
 └── .gitignore
+
+
+
+---
+
+## 🔒 Important Note
+
+This repository does NOT include:
+
+- wp-admin
+- wp-includes
+- wp-config.php
+- Database export
+- Hosting credentials
+
+Sensitive files are excluded for security reasons.
+
+---
+
+## 📦 Installation Guide (For Local Development)
+
+1. Install WordPress locally (XAMPP / Local WP)
+2. Copy `wp-content` folder into fresh WordPress installation
+3. Import database (if provided separately)
+4. Update site URL in database
+5. Configure wp-config.php manually
+
+---
+
+## 🌐 Live Website
+
+Hosted on Hostinger (production environment)
+
+---
+
+## 📈 SEO Implementation
+
+- Optimized Meta Titles & Descriptions
+- Schema Markup Integration
+- Image Alt Tag Optimization
+- Clean Permalink Structure
+- Mobile-First Design
+- Page Speed Optimization
+
+---
+
+## 🧑‍💻 Developed By
+
+Developed as a client project using WordPress + Elementor framework.
+
+---
+
+## 📜 License
+
+This project is proprietary and developed for client use.
+Not intended for redistribution.
+
