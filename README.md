@@ -1,21 +1,56 @@
-# Kavya Enterprises Website
+# Kavya Enterprises – Official Website
 
-Official WordPress website for Kavya Enterprises – Uniform Manufacturer in Jaipur.
+Official WordPress website for **Kavya Enterprises**, a leading uniform manufacturer based in Jaipur, Rajasthan.
 
-## 🚀 Built With
-- WordPress 6.8.3
-- Elementor 3.33.4
-- All in One SEO (AIOSEO)
+This project represents the complete business website built for branding, lead generation, and local SEO visibility.
 
-## 📍 Business Location
-Jaipur, Rajasthan
+---
 
-## 🛠 Features
-- Responsive Design
-- SEO Optimized
-- Elementor Page Builder
-- Uniform Product Showcase
+## 🏢 About the Business
+
+**Business Name:** Kavya Enterprises  
+**Industry:** Uniform Manufacturing  
+**Location:** Jaipur, Rajasthan, India  
+
+Kavya Enterprises specializes in manufacturing high-quality uniforms for schools, corporates, hospitals, security agencies, and industrial sectors.
+
+---
+
+## 🚀 Project Overview
+
+This website was developed to:
+
+- Establish strong online presence
+- Improve local search rankings
+- Showcase uniform product categories
+- Generate business inquiries
+- Provide mobile-friendly browsing experience
+
+---
+
+## 🛠 Tech Stack
+
+- CMS: WordPress
+- Page Builder: Elementor
+- SEO Plugin: All in One SEO (AIOSEO)
+- Language: PHP
+- Frontend: HTML5, CSS3, JavaScript
+- Hosting: Hostinger
+- Database: MySQL
+
+---
+
+## ✨ Key Features
+
+- Fully Responsive Design
+- SEO Optimized Structure
+- Fast Loading Performance
+- Custom Elementor Layouts
 - Contact Form Integration
+- Clean UI/UX
+- Schema Markup (via AIOSEO)
+- Secure Hosting Environment
 
-## 🔒 Note
-Core WordPress files are not included in this repository.
+---
+
+## 📂 Repository Structure
